@@ -1,25 +1,21 @@
 # Sales Demand Forecasting System
 
 ## Overview
-This project builds a machine learning model to forecast grocery sales demand using historical retail data.
+This project builds a machine learning model to forecast grocery sales demand using historical retail data. The goal is to support inventory planning and data-driven business decisions.
 
 ## Dataset
 Supermart Grocery Sales – Retail Analytics Dataset (Kaggle)
 
 ## Objective
-To predict future sales demand and support inventory planning.
+To predict future sales demand using historical data and demonstrate how predictive analytics can help optimize inventory management.
 
-## Tech Stack
-- Python
-- Pandas, NumPy
-- Scikit-learn
-- Matplotlib
+## Requirements
+To run this project, you need the following Python libraries:
+- pandas
+- numpy
+- matplotlib
+- scikit-learn
 
-## Methodology
-- Data cleaning and preprocessing
-- Feature engineering from order dates
-- Regression model training
-- Evaluation using RMSE
-
-## Results
-The model demonstrates how predictive analytics can help businesses optimize sales and inventory decisions.
+You can install them using:
+```bash
+pip install -r requirements.txt
