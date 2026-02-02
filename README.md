@@ -15,7 +15,3 @@ To run this project, you need the following Python libraries:
 - numpy
 - matplotlib
 - scikit-learn
-
-You can install them using:
-```bash
-pip install -r requirements.txt
